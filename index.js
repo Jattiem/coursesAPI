@@ -12,7 +12,7 @@ let courses = [
     {
         id: 1, name: 'Software Engineering'
     },
-    {
+    { 
         id: 2, name: 'Web Development'
     },
     {
